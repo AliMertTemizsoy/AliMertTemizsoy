@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ali Mert. I am currently studying computer engineering at Yildiz Technical University. I'm currently learning C at university. I hope i will be a successful data scientist one day.
+
 <!--
 **AliMertTemizsoy/AliMertTemizsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
