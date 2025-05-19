@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Ali Mert. I am currently studying computer engineering at Yildiz Technical University. I'm currently learning C at university. I hope i will be a successful data scientist one day.
+I'm **Ali Mert Temizsoy**, a Computer Engineering student at Yildiz Technical University.  
+Currently focusing on Python, C, and data-related projects.
+
+- 📌 Incoming Erasmus+ student at Czech Technical University in Prague  
+- 🗂️ Check out my pinned repositories to see some of my coursework and projects
+
+[LinkedIn](https://www.linkedin.com/in/ali-mert-temizsoy-081883282/) • [GitHub](https://github.com/AliMertTemizsoy)
+
 
 <!--
 **AliMertTemizsoy/AliMertTemizsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
